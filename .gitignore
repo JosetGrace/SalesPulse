@@ -1,0 +1,10 @@
+# Dependencies & Cache
+node_modules/
+.chrome-test-profile/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
